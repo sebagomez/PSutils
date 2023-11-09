@@ -13,5 +13,3 @@ $name = $tokens[0]
 $value = $tokens[1]
 
 Set-Item -Path Env:$name -Value $value
-
-# Get-ChildItem Env:$name
