@@ -1,4 +1,4 @@
-
+﻿
 Set-StrictMode -Off;
 
 if(!$args) { "usage: export <variable>=<value>"; exit 1 }

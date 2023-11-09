@@ -1,4 +1,4 @@
-
+﻿
 Set-StrictMode -Off;
 
 if($args.lengt -gt 1) { "usage: env [variable]"; exit 1 }
