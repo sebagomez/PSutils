@@ -6,3 +6,7 @@ I don't do it very often so every time I needed to create an environment variabl
 
 This is where I plan to add those commands (probably a very simplified version of them) and I plan to publish them as [scoop](https://scoop.sh/) packages.
 
+## Commands
+
+- `export <variable>=<value>`: sets a local environment variable
+- `env [variable]`: if a variable is passed it'll show you the value of it, if not it'll list all of the current environment variables set.
