@@ -14,6 +14,8 @@ This is where I plan to add those commands (probably a very simplified version o
 - `env [variable]`: if a variable is passed it'll show you the value of it, if not, it'll list all of the current environment variables set.
 - `unset <variable>`: removes the environment variable
 
+
+
 ### How to install these commands
 
 These commands are available for [Scoop](https://scoop.sh/). Scoop is a great package manager that for some reason it beat, IMHO, the good old Chocolatey and Microsoft's own winget. 
