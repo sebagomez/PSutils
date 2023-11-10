@@ -14,7 +14,7 @@ This is where I plan to add those commands (probably a very simplified version o
 - `env [variable]`: if a variable is passed it'll show you the value of it, if not, it'll list all of the current environment variables set.
 - `unset <variable>`: removes the environment variable
 
-
+https://github.com/sebagomez/PSutils/assets/1637983/6eaf6bff-e338-4dfa-b497-1c20ae8b99e5
 
 ### How to install these commands
 
